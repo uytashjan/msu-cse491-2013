@@ -6,8 +6,9 @@ day, and each student may sign up for two blog posts total.  Each blog
 post will count towards half a project at the end of the class (i.e.
 2 blog posts will satisfy 10% of your grade).
 
-To sign up for a blog post, go to @@, fork the repo, edit this document,
-and submit a pull request to me to merge it back in.
+To sign up for a blog post, go to
+https://github.com/ctb/msu-cse491-2013/, fork the repo, edit this
+document, and submit a pull request to me to merge it back in.
 
 Content
 -------
