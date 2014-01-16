@@ -5,7 +5,7 @@ Day 4: Thursday, January 16th, 2014
 0. For class, read http://en.wikipedia.org/wiki/Deep_Web.  Maybe also check
    out http://arxiv.org/pdf/1312.6122v1.pdf.
 
-1. Quiz and discussion.
+1. `Quiz <https://docs.google.com/forms/d/15o8LNYMazJ3LL4nTB7WerbS_0-2JCt80euwOG6KuTf0/viewform>`__ and discussion.
 
 2. Code review HOWTO:
 
