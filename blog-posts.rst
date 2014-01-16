@@ -34,7 +34,7 @@ You can also add:
 Class days
 ----------
 
-- [ ] 4. 1/16
+- [ leflerja ] 4. 1/16
 - [ ] 5. 1/21
 - [ ] 6. 1/23
 - [ ] 7. 1/28
@@ -42,7 +42,7 @@ Class days
 - [ ] 9. 2/4
 - [ ] 10. 2/6
 - [ ] 11. 2/11
-- [ ] 12. 2/13 - Rich Enbody speaks on security
+- [ leflerja ] 12. 2/13 - Rich Enbody speaks on security
 - [ ] 13. 2/18
 - [ ] 14. 2/20
 - [ ] 15. 2/25
