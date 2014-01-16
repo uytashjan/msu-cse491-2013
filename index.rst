@@ -12,7 +12,8 @@ Instructor: C. Titus Brown, ctb@msu.edu, BPS 2228(c)
 
 TA: Leigh Sheneman, leighs@msu.edu, BPS 2228.
 
-Office hours: Wed evenings in Egr.
+Office hours will be in 3353 Egr at 9pm on Wednesday evenings, unless
+otherwise stated.
 
 **Objectives:**
 
@@ -32,9 +33,6 @@ Python or be prepared to learn it fairly well on your own.
 
 Make sure you're `on the mailing list
 <http://lists.idyll.org/listinfo/cse491-spring-2014>`__.
-
-Office hours will be in 3353 Egr at 9pm on Wednesday evenings, unless
-otherwise stated.
 
 Class resources:
 
