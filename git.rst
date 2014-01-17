@@ -62,5 +62,38 @@ will push all changes in the master branch (the default one) to the
 remote location called 'origin', which, by default, is wherever you
 cloned things from.
 
+Here, 'master' is the branch.  So if you have a branch, say, 'other', you
+can do::
+
+   git push origin other:other
+
 You can use 'git remote' to add, remove, edit, and otherwise mess with your
-various location aliases.
+various location aliases (e.g. 'origin').
+
+4. Creating new branches, and switching branches
+================================================
+
+To create a new branch called 'other', you can do::
+
+   git checkout -b other
+
+This will copy your *current* branch into a *new* branch called 'other'.
+
+You can switch to an existing branch by doing::
+
+   git checkout other
+
+and you can see existing branches with::
+
+   git branch
+
+5. Pushing changes to github with different branch names.
+=========================================================
+
+There's no reason you *have* to use the same branch names in your
+local repo as in your github repo.  For example, if you do::
+
+   git push origin master:other
+
+this will push the contents of your *local* master branch into the
+*remote* branch named 'other'.

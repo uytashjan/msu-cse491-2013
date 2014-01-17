@@ -32,7 +32,7 @@ friends, family, etc. to complete the homework.
       http://www.jmarshall.com/easy/http/#structure
 
    especially 'Sample HTTP exchange'.  Note, you can emit a CRLF
-   in Python with "\r\n".
+   in Python with "\\r\\n".
 
    Verify that when you point your Web browser at your network server,
    you see the message you wrote, with 'Hello, world' in bigger letters
