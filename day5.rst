@@ -4,7 +4,7 @@ Day 5: Tuesday, January 21st, 2014
 
 0. For class, read: http://ivory.idyll.org/blog/software-quality-death-spiral.html
 
-1. Quiz and discussion.
+1. `Quiz <https://docs.google.com/forms/d/1EAiacJq-5LdEKBH93rcqGj_Z7uMei20Z0VRcXGay-vg/viewform>`__ and discussion.
 
 2. Roadmap for next few weeks.
 
@@ -14,7 +14,7 @@ Day 5: Tuesday, January 21st, 2014
    
    Week 6: More interesting Web apps; header processing & cookies.
 
-3. Structure of HTTP, revisited.
+3. Structure of HTTP, revisited.  `See presentation <https://docs.google.com/presentation/d/1p3LWmm37c0n6zmyIczdMYXO07hIT-X6GS_hROHBo6zo/edit#slide=id.p16>`__.
 
    Payload of request, abstractly
 
