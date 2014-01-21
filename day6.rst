@@ -10,7 +10,7 @@ Day 6: Thursday, January 23rd, 2014
 
 3. Stuff on HTTP, TCP/IP.
 
-4. HTML
+4. HTML -- ~/web/.
 
    "Content" payload
 
