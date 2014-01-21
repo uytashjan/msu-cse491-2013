@@ -26,7 +26,7 @@ on some useful string manipulations.
 3. Turning a list into a string with 'join'::
 
       x = ['a', 'b', 'c']      # define a list
-      y = x.join(':')          # turn list into a string, elements joined by :
+      y = ":".join(x)          # turn list into a string, elements joined by :
       print y                  # a:b:c
 
 4. Indexing and slicing.  Both lists and strings can be indexed and sliced::
