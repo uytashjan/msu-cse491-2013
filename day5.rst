@@ -63,7 +63,7 @@ Day 5: Tuesday, January 21st, 2014
    You should see 8 errors from the code in 'day5.py'.  Fix the code in
    'day5.py' so that the tests all pass!
 
-   Solutions here: https://github.com/ged-lab/msu-cse491-2013/raw/master/day5-solved.py
+   Solutions here: https://github.com/ged-lab/msu-cse491-2013/blob/master/day5-solved.py
 
 .. video
 .. blog post hosting
