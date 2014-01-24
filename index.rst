@@ -46,6 +46,8 @@ Class pages and HWs, by day:
 .. toctree::
    :maxdepth: 2
 
+   day7
+   hw3
    day6
    day5
    hw2
