@@ -1,6 +1,6 @@
-===================================
-Day 7: Tuesday, January 25th, 2014
-===================================
+==================================
+Day 7: Tuesday, January 28th, 2014
+==================================
 
 0. Read: http://www.fastcompany.com/28121/they-write-right-stuff and http://www.infoworld.com/print/15243; skim http://calleam.com/WTPF/?page_id=2086
 
