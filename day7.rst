@@ -16,3 +16,5 @@ Day 7: Tuesday, January 28th, 2014
 .. questions:
 
    what's the difference between space shuttle and fbi case study system?
+
+.. flow diagram for decisions in HTTP
