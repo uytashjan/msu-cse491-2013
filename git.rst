@@ -9,6 +9,8 @@ Links:
 * `A tutorial introduction to git <http://git-scm.com/docs/gittutorial>`__
 * `Top 10 Git tutorials for beginners <http://sixrevisions.com/resources/git-tutorials-beginners/>`__
 
+See also `this video that Titus made about merging <http://www.youtube.com/watch?v=5G9T_LXii98>`__ 
+
 ----
 
 1. Cloning a repository.

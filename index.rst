@@ -40,6 +40,8 @@ Class resources:
    :maxdepth: 1
 
    blog-posts
+   git
+   virtualenv
 
 Class pages and HWs, by day:
 
