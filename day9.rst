@@ -8,7 +8,7 @@ Day 9: Tuesday, Feb 4th, 2014
 
 2. What is StackOverflow anyway? Hey, and what's a PEP?
 
-3. WSGI in practice; separation of concerns.
+3. WSGI in practice; separation of concerns. `(Presentation.) <https://docs.google.com/presentation/d/1B0IMGkk9RwSsKT8afn3f-V3-77IA403F7C4ZKITCbg8/edit#slide=id.p13>`__
 
 4. Thinkin' 'bout functions.
 
