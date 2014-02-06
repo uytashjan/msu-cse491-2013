@@ -139,3 +139,6 @@ try8: what does the following code print, if placed in a file and executed? ::
 
     print some_function(g, 5)
     print some_function(f, 4)
+
+.. how many have read a formal spec document?
+.. concept of encapsulation, separation of concerns
