@@ -6,11 +6,13 @@ Day 10: Thursday, Feb 6th, 2014
 
 1. `Fill out the quiz <https://docs.google.com/forms/d/1DskEZpwPOQyIl_0CBzK9EbndC3PGKN4VnZhsnnFpHlc/viewform>`__ and do some discussion.
 
-2. More code analysis?
+2. Why does cgi.py suck so much?
 
-3. Teach me mock tests?
+3. More code analysis?
 
-4. Code review of hw4.
+4. Teach me mock tests?
+
+5. Code review of hw4.
 
 Code review checklist
 ~~~~~~~~~~~~~~~~~~~~~
