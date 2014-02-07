@@ -1,4 +1,8 @@
-Deal with arbitrary size uploads/content-length; test it.
+==========
+Homework 5
+==========
+
+Due by noon on Thursday, Feb 13th.
 
 0. Merge hw4 into your master.  Please don't delete the 'hw3' branch :)
 
