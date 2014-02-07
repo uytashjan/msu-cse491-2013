@@ -134,30 +134,3 @@ sarteleb: `github site <https://github.com/sarteleb/cse491-serverz>`__ - `pulls 
 JRucinski: `github site <https://github.com/JRucinski/cse491-serverz>`__ - `pulls <https://github.com/JRucinski/cse491-serverz/pulls>`__ - `branches <https://github.com/JRucinski/cse491-serverz/branches>`__ - `repo URL for cloning <https://github.com/JRucinski/cse491-serverz.git>`__
 
 fenderic: `github site <https://github.com/fenderic/cse491-serverz>`__ - `pulls <https://github.com/fenderic/cse491-serverz/pulls>`__ - `branches <https://github.com/fenderic/cse491-serverz/branches>`__ - `repo URL for cloning <https://github.com/fenderic/cse491-serverz.git>`__
-
-.. show mocking, stubbing
-
-.. python modules; use in wsgi server
-
-.. code review, with teeth; give them something specific to review.
-
-.. mocking.
-
-
-
-.. Refactoring-
-.. Video
-
-.. Debugging; point of test is that you control everything,
-
-
-.. 2. A simple WSGI application & some server tests.
-
-.. secret via e-mail
-.. stubbing/mocking
-.. refactoring
-
-.. fizbuz
-
-.. why lowercase?
-
