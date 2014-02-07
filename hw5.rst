@@ -4,7 +4,7 @@ Homework 5
 
 Due by noon on Thursday, Feb 13th.
 
-0. Merge hw4 into your master.  Please don't delete the 'hw3' branch :)
+0. Merge hw4 into your master.  Please don't delete the 'hw4' branch :)
 
    Hand in this homework on branch 'hw5' on your github account, and
    set up a pull request between hw4 and your master branch.  Don't merge
