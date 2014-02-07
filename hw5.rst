@@ -10,7 +10,7 @@ Due by noon on Thursday, Feb 13th.
    set up a pull request between hw4 and your master branch.  Don't merge
    it, just set up the PR.
 
-1. Move all of your content-delivery code (anything in server.py after
+1. Move all of your content-creation code (anything in server.py after
    reading in the request) into a new file, 'app.py', and refactor it
    to look like a WSGI application.
    
