@@ -4,7 +4,7 @@ Day 11: Tuesday, Feb 11th, 2014
 
 0. Read http://www.artima.com/scalazine/articles/twitter_on_scala.html
 
-1. Quiz and brief discussion.
+1. `Quiz (link) <https://docs.google.com/forms/d/1h3yipddXkF2YcfQw6MTmHwRqwetHz3ENw5nhn4IPN8g/viewform>`__ and brief discussion.
 
 2. 'git stash' and 'git stash apply' demonstration
 
