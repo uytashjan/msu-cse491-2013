@@ -18,7 +18,7 @@ An actual WSGI application
 
 Activate your virtualenv, or create/recreate it (see :doc:`virtualenv`).
 
-then, install Quixote into your virtualenv::
+then, install `Quixote <http://quixote.ca/>`__ into your virtualenv::
 
    pip install http://quixote.ca/releases/Quixote-2.8.tar.gz
 
