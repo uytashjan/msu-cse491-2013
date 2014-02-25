@@ -1,4 +1,4 @@
-labibi
-======
+MSU Web Dev class (2014)
+========================
 
-See http://labibi.readthedocs.org/en/latest/
+See http://msu-web-dev.readthedocs.org/en/latest/
