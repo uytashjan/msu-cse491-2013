@@ -54,4 +54,5 @@ once for each virtualenv. ::
    pip install -U requests
    pip install -U coverage
    pip install -U jinja2
+   pip install -U twill
    source ~/cse491.env/bin/activate.csh
