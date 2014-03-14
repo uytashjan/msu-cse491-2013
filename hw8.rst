@@ -98,12 +98,7 @@ and that all your functionality works on the clean checkout, on arctic.
 
 Using ChangeLog, please explain your project choice and implementation
 in sufficient detail to let someone else (me) who is _not_ psychic
-understand what you've done and run it.  Test these instructions using
-a clean checkout.  I mean it.
+understand what you've done and run it.  Test your code and any
+instructions using a clean checkout.  I mean it.
 
-.. make sure I can run their server; command line options!!
-.. cookie tests!!
-.. twill tests on their wsgi server
 .. javascript add
-
-.. changelog => changes
