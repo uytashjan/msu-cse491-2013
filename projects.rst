@@ -59,3 +59,11 @@ Projects
 .. do domain name, IP, etc.
 
 .. write Selenium tests
+
+.. make fake data
+
+.. make tiny url
+
+.. twill and requests
+
+.. help a brutha out
