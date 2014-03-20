@@ -12,13 +12,13 @@ Day 20: Thursday, Mar 20th, 2014
 
    Why AJAX vs simply loading the page?
 
-   Note: no content push!
+   Note: no content push options in HTTP!
 
    Various reasons for using AJAX:
 
     * Partial load of data.
     * More interactivity.
-    * Less page rendering on client.
+    * Less page rendering all at once on the client.
 
 4. Quote app query diagram.  (See :doc:`day19`.)
 
