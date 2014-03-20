@@ -4,7 +4,7 @@ Day 20: Thursday, Mar 20th, 2014
 
 0. Read `What is Web 2.0? <http://oreilly.com/web2/archive/what-is-web-20.html>`__ and, if you feel like it, the `Wikipedia page on Web 2.0 <http://en.wikipedia.org/wiki/Web_2.0>`__.
 
-1. `Quiz. <https://docs.google.com/a/msu.edu/forms/d/1vVqbkV8lGjoz8xOeNpUt03M6h0Yi7zUgSR-5buFd9xc/viewform>`__
+1. `Quiz. <https://docs.google.com/a/msu.edu/forms/d/1vVqbkV8lGjoz8xOeNpUt03M6h0Yi7zUgSR-5buFd9xc/viewform>`__  (May need to log out of your regular google.com account & log into your msu.edu account.)
 
 2. Discussion
 
