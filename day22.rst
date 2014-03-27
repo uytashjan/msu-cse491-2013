@@ -8,8 +8,12 @@ Day 22: Thursday, Mar 27th, 2014
 
 2. Discussion.
 
-3. Projects and overview diagram.
+3. Discuss: :doc:`projects`
 
 3. Code review offer.
 
 4. Future classes; strategy.
+
+   Tuesday classes will start with reading and quizes; then move on to
+   technology vignettes; then I will talk with people about their projects
+   and project benchmarks & goals.

@@ -5,6 +5,20 @@ Projects
 .. image:: _static/2014-cse491-platform-diagram.png
    :width: 80%
 
+Overall goal: implement features for an image
+sharing/storage/leaderboard/editing Web site.
+
+Testing rules: apart from the testing specific projects, do enough
+to make sure that your site works.  Heh.
+
+Extension offer, in place next HW: before the homework is due, you can
+ask for an extension until next Thursday, for help in solving
+technical problems.  I will grant extensions where significant work
+and problem solving has been tried but has failed.  I will then choose
+another student to help you debug and fix your code via pull request
+review; I will evaluate them on their PR comments, and you on your
+fixed (or not) code.  Details still a bit fuzzy; ask questions.
+
 0. Propose something that you've always been interested in learning!
 
 1. Reimplement the imageapp functionality (minus the silly JavaScript)
