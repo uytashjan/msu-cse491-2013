@@ -47,7 +47,7 @@ fixed (or not) code.  Details still a bit fuzzy; ask questions.
 9. Add username login via cookies and tracking of image by "owner" (the
    person who uploaded it).  Allow the owner to delete it. (5 pts.; app_feature)
 
-10. Implement secure cookies (see #9).  (5 pts; app_feature)
+10. Implement secure cookies (see #9); use UUID.  (5 pts; app_feature)
 
 11. Write something that prevents denial of services by uploading gigabyte
     files, or "forever" connections that upload things really slowly.
