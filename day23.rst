@@ -1,6 +1,6 @@
-================================
-Day 23: Thursday, Mar 27th, 2014
-================================
+==============================
+Day 23: Tuesday, April 1, 2014
+==============================
 
 0. Skim `DevOps for recruiters <http://www.slideshare.net/devopsguys/dev-opsguys-devops-101-for-recruiters>`__ and read `this article <http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/>`__ and `this article <http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html>`__ on ChaosMonkey.
 
