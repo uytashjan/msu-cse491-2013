@@ -1,4 +1,5 @@
 Blog post assignments
+Hello, world! adash
 =====================
 
 Up to two students may sign up to write a blog post about each class
