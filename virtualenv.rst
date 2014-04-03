@@ -55,4 +55,5 @@ once for each virtualenv. ::
    pip install -U coverage
    pip install -U jinja2
    pip install -U twill
+   pip install http://quixote.ca/releases/Quixote-2.8.tar.gz
    source ~/cse491.env/bin/activate.csh
